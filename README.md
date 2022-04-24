@@ -69,10 +69,6 @@
 </p>
 
 <br/>
-
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
 	
 <div>
   <p align="center">
@@ -108,7 +104,6 @@
     	</a>
   </p>
 </div>
-</details>
 
 </br></br>
 
