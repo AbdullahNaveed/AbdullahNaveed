@@ -71,10 +71,6 @@
 <br/>
 
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/AbdullahNaveed"><img alt="AbdullahNaveed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdullahNaveed&custom_title=AbdullahNaveed's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 -----
