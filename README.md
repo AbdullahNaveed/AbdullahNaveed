@@ -1,0 +1,84 @@
+<h1 align="center">Abdullah Naveed </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Scientist;Flutter+Developer;Game+Developer;iOS+Developer;&center=true&width=500&height=50"></a>
+</p>
+
+<p align="center">
+  <a href="https://sites.google.com/view/ansy-games/home" target="_blank"><img src="https://img.shields.io/badge/Website-FCC624.svg?style=plastic&logo=Website&logoColor=white" alt="Website"/></a>
+  <a href="mailto:abdullahnaveedahmed@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/Gmail-D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/AbdullahNaveed" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/AbdullahNaveed0007/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/ansygames/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<br>
+<br>
+<br>
+
+<p align="center">
+    <a href="https://github.com/AbdullahNaveed/github-readme-stats"><img alt="AbdullahNaveed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdullahNaveed&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahNaveed&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AbdullahNaveed" height="192px"/>
+</p>
+
+<br>
+<br>
+
+## 👉 Programming languages
+
+<p align="center"> 
+  &emsp;  
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  &emsp;
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&style=plastic&logo=c%2B%2B&logoColor=white">
+  &emsp;
+     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&style=plastic&logo=c-sharp&logoColor=white">
+  &emsp;
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&style=plastic&logo=dart&logoColor=white">
+  &emsp;
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+</p>
+
+ ## 👉 Software & Tools
+ 
+<p align="center">
+  &emsp;
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
+  &emsp;
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white">
+  &emsp;
+    <img alt="XCode" src="https://img.shields.io/badge/XCode-02569B?style=plastic&logo=xcode&logoColor=white">
+  &emsp;
+    <img alt="AndroidStudio" src="https://img.shields.io/badge/androidstudio-%321.svg?style=plastic&logo=androidstudio&logoColor=white">
+  &emsp;
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+</p>
+
+ ## 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  &emsp;
+    <img src="https://img.shields.io/badge/macOS-100000?style=plastic&logo=macOS&logoColor=white">
+  &emsp;
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white">
+  &emsp;
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
+</p>
+
+<br/>
+
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/AbdullahNaveed"><img alt="AbdullahNaveed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdullahNaveed&custom_title=AbdullahNaveed's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+-----
+
+Last Edited on: 24th April, 2022
+
+Credits: [7oSkaaa](https://github.com/7oSkaaa)
