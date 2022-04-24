@@ -40,7 +40,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
 </p>
 
- ## 👉 Software & Tools
+ ## 👉 Tools & Technologies
  
 <p align="center">
   &emsp;
