@@ -70,7 +70,47 @@
 
 <br/>
 
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
+----
+	
+<div>
+  <p align="center">
+    	<a href="https://github.com/AbdullahNaveed/Deploying-AI-Model-on-Cloud">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Deploying-AI-Model-on-Cloud&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/AbdullahNaveed/Deep-Neural-Networks-From-Scratch-Python">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Deep-Neural-Networks-From-Scratch-Python&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/AbdullahNaveed/Spell-Corrector-For-Roman-Urdu">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Spell-Corrector-For-Roman-Urdu&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/AbdullahNaveed/Advanced-Encryption-Standard-16-bytes-">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Advanced-Encryption-Standard-16-bytes-&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/AbdullahNaveed/Exam-Scheduler-using-Genetic-Algorithm">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Exam-Scheduler-using-Genetic-Algorithm&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/AbdullahNaveed/Poetry-Generation-Urdu-Language">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Poetry-Generation-Urdu-Language&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/AbdullahNaveed/School-Management-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=School-Management-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/AbdullahNaveed/Centipede-Game">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Centipede-Game&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/AbdullahNaveed/Snake-Game">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Snake-Game&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/AbdullahNaveed/Dino-Game-Assembly-Language">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Dino-Game-Assembly-Language&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
+</br></br>
 
 
 -----
