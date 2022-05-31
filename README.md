@@ -73,6 +73,9 @@
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 <div>
   <p align="center">
+	<a href="https://github.com/AbdullahNaveed/Spyware-Python">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Spyware-Python&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
     	<a href="https://github.com/AbdullahNaveed/Deploying-AI-Model-on-Cloud">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahNaveed&repo=Deploying-AI-Model-on-Cloud&theme=tokyonight" alt="GitHub Stats" />
     	</a>
