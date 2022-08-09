@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://sites.google.com/view/ansy-games/home" target="_blank"><img src="https://img.shields.io/badge/Website-FCC624.svg?style=plastic&logo=Website&logoColor=white" alt="Website"/></a>
   <a href="mailto:abdullahnaveedahmed@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/Gmail-D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://drive.google.com/file/d/121Nbn-kwP-d60PqKdL_OHdi9iGNHTAMz/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%23181717.svg?style=plastic&logo=resume&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/18ckTliGZC5jwPj-yun7TjlJMzxAa4HFZ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%23181717.svg?style=plastic&logo=resume&logoColor=white" alt="Resume"/></a>
   <a href="https://www.linkedin.com/in/AbdullahNaveed0007/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/ansygames/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
