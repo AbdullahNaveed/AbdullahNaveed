@@ -15,13 +15,6 @@
 <br>
 <br>
 
-<p align="center">
-    <a href="https://github.com/AbdullahNaveed/github-readme-stats"><img alt="AbdullahNaveed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdullahNaveed&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahNaveed&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AbdullahNaveed" height="192px"/>
-</p>
-
 <br>
 <br>
 
