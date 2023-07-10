@@ -37,7 +37,7 @@
   &emsp;
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCv-100000?style=plastic&logo=opencv&logoColor=white">
   &emsp;
-    <img alt="TensorFlow" src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=tensorflow&logoColor=white">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/Tensorflow-FA7343?style=plastic&logo=tensorflow&logoColor=white">
   &emsp;
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
   &emsp;
