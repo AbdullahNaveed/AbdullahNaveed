@@ -35,7 +35,9 @@
   &emsp;
     <img alt="Docker" src="https://img.shields.io/badge/Docker-02569B?style=plastic&logo=docker&logoColor=white">
   &emsp;
-    <img alt="TensorFlow" src="https://img.shields.io/badge/Docker-02569B?style=plastic&logo=tensorflow&logoColor=orange">
+    <img alt="OpenCV" src="https://img.shields.io/badge/Opencv2-02569B?style=plastic&logo=opencv&logoColor=white">
+  &emsp;
+    <img alt="TensorFlow" src="https://img.shields.io/badge/Tensorflow-FA7343?style=plastic&logo=tensorflow&logoColor=white">
   &emsp;
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
   &emsp;
