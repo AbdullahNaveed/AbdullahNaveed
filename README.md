@@ -1,6 +1,6 @@
 <h1 align="center">Abdullah Naveed </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Scientist;Machine +Learning+Engineer;Data+Scientist;Mobile+Application+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Scientist;Machine Learning+Engineer;Data+Scientist;Mobile+Application+Developer;&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -107,5 +107,5 @@
 -----
 
 
-Last Edited on: 28th November, 2022
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
+Last Edited on: 10th July, 2023
+Design Credits: [7oSkaaa](https://github.com/7oSkaaa)
