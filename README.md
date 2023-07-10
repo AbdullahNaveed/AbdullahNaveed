@@ -47,9 +47,9 @@
   &emsp;
     <img alt="XCode" src="https://img.shields.io/badge/XCode-02569B?style=plastic&logo=xcode&logoColor=white">
   &emsp;
-    <img alt="AndroidStudio" src="https://img.shields.io/badge/androidstudio-%321.svg?style=plastic&logo=androidstudio&logoColor=white">
+    <img alt="AndroidStudio" src="https://img.shields.io/badge/AndroidStudio-%321.svg?style=plastic&logo=androidstudio&logoColor=white">
   &emsp;
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white">
 </p>
 
  ## 👉 Operating Systems
