@@ -17,6 +17,8 @@
 ## 👉 Programming languages
 
 <p align="center"> 
+  &emsp;
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   &emsp;  
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   &emsp;
@@ -25,13 +27,13 @@
      <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&style=plastic&logo=c-sharp&logoColor=white">
   &emsp;
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&style=plastic&logo=dart&logoColor=white">
-  &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
 </p>
 
  ## 👉 Tools & Technologies
  
 <p align="center">
+  &emsp;
+    <img alt="Docker" src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=docker&logoColor=white">
   &emsp;
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
   &emsp;
