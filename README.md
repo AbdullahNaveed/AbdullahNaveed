@@ -33,7 +33,9 @@
  
 <p align="center">
   &emsp;
-    <img alt="Docker" src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=docker&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-02569B?style=plastic&logo=docker&logoColor=white">
+  &emsp;
+    <img alt="TensorFlow" src="https://img.shields.io/badge/Docker-02569B?style=plastic&logo=tensorflow&logoColor=orange">
   &emsp;
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
   &emsp;
