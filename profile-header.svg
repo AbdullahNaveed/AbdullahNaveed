@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="title">
+  <title id="title">Abdullah Naveed · AI Engineer</title>
+  <defs>
+    <clipPath id="panel"><rect width="960" height="310" rx="16"/></clipPath>
+    <pattern id="rules" width="13" height="13" patternUnits="userSpaceOnUse">
+      <path d="M0 12.5h13" stroke="#25303c" stroke-width="1"/>
+    </pattern>
+    <pattern id="stripes" width="8" height="8" patternUnits="userSpaceOnUse">
+      <path d="M0 3h8" stroke="#ef8354" stroke-width="2"/>
+    </pattern>
+    <linearGradient id="warm" x2="1" y2="1">
+      <stop stop-color="#ffd2ac"/><stop offset="1" stop-color="#f28556"/>
+    </linearGradient>
+    <linearGradient id="beam">
+      <stop stop-color="#ffc493" stop-opacity="0"/>
+      <stop offset=".53" stop-color="#ffc493" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#ffc493" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="mark">
+      <path d="M615 228l64-151h35l64 151h-39l-13-34h-59l-13 34zm63-64h37l-18-47z M782 228V77h34l64 90V77h36v151h-34l-64-91v91z" clip-rule="evenodd"/>
+    </clipPath>
+    <style>
+      .beam { animation: sweep 4.8s cubic-bezier(.45,0,.25,1) infinite; }
+      .cursor { animation: blink 1.25s steps(1,end) infinite; }
+      .entry { animation: settle .65s cubic-bezier(.15,.7,.25,1) both; }
+      @keyframes sweep {
+        0%, 13% { transform: translateX(-145px); }
+        74%, 100% { transform: translateX(410px); }
+      }
+      @keyframes blink { 0%, 58% { opacity: 1; } 59%, 100% { opacity: .23; } }
+      @keyframes settle { from { opacity: .25; transform: translateY(9px); } to { opacity: 1; transform: translateY(0); } }
+      @media (prefers-reduced-motion: reduce) {
+        .beam,.cursor,.entry { animation: none; }
+      }
+    </style>
+  </defs>
+  <g clip-path="url(#panel)">
+    <rect width="960" height="310" fill="#10151e"/>
+    <path d="M615 0H960V310H552z" fill="#171b25"/>
+    <path d="M615 0H960V310H552z" fill="url(#rules)"/>
+    <path d="M614 0l-62 310" stroke="#35313a"/>
+    <path d="M48 44h848M48 265h848" stroke="#49414a" opacity=".67"/>
+    <path d="M48 44h41" stroke="#f29a6d" stroke-width="2"/>
+    <g class="entry" font-family="Segoe UI, system-ui, sans-serif" font-weight="720" font-size="65" letter-spacing="-2">
+      <text x="48" y="126" fill="#f7f1e8">Abdullah</text>
+      <text x="48" y="196" fill="#f7f1e8">Naveed</text>
+    </g>
+    <text x="49" y="239" fill="#ffc49c" font-family="Consolas, monospace" font-size="20" letter-spacing="2">AI ENGINEER</text>
+    <rect class="cursor" x="197" y="221" width="9" height="20" rx="1" fill="#ee9369"/>
+    <g clip-path="url(#mark)">
+      <rect x="610" y="73" width="310" height="160" fill="url(#stripes)"/>
+      <path class="beam" d="M563 66h129l-48 176H515z" fill="url(#warm)"/>
+    </g>
+    <path class="beam" d="M563 44h129l-48 221H515z" fill="url(#beam)" opacity=".19"/>
+    <rect x=".5" y=".5" width="959" height="309" rx="16" fill="none" stroke="#393441"/>
+  </g>
+</svg>

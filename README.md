@@ -1,13 +1,11 @@
-<h1 align="center">Abdullah Naveed</h1>
-
 <p align="center">
-  <img src="./ai-engineer-role.svg" width="300" height="46" alt="AI Engineer" />
+  <img src="./profile-header.svg" width="100%" alt="Abdullah Naveed · AI Engineer" />
 </p>
 
-<p align="center">LLM applications · Retrieval and agents · Computer vision</p>
+<p align="center"><samp>LLM applications · RAG · AI agents · Computer vision</samp></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,postgres,azure,docker,kubernetes&amp;perline=8" width="326" alt="Python, PyTorch, TensorFlow, OpenCV, PostgreSQL, Azure, Docker, and Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,postgres,azure,docker,kubernetes&amp;perline=7" width="290" alt="Python, PyTorch, OpenCV, PostgreSQL, Azure, Docker, Kubernetes" />
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/AbdullahNaveed0007/">LinkedIn</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/AbdullahNaveed0007/">LinkedIn ↗</a></p>
