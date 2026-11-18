@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Abdullah Naveed — AI Engineer</title>
+<desc id="desc">Building intelligence into real products. Generative AI, computer vision, and developer tools. An animated neural constellation surrounds a luminous core.</desc>
+<defs>
+<radialGradient id="ambient"><stop stop-color="#123c47"/><stop offset="1" stop-color="#090e16"/></radialGradient>
+<linearGradient id="ink"><stop stop-color="#e9ffff"/><stop offset="1" stop-color="#56dfcf"/></linearGradient>
+<linearGradient id="edge"><stop stop-color="#59edda" stop-opacity=".7"/><stop offset=".6" stop-color="#273341"/><stop offset="1" stop-color="#7486ff" stop-opacity=".5"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5d7e9" stroke-opacity=".045"/></pattern>
+<style>
+.orbit{transform-origin:1010px 214px;animation:orbit 32s linear infinite}
+.reverse{animation-direction:reverse;animation-duration:46s}
+.pulse{animation:pulse 5s ease-in-out infinite}
+.signal{stroke-dasharray:6 24;animation:flow 8s linear infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes pulse{50%{opacity:.4}}
+@keyframes flow{to{stroke-dashoffset:-180}}
+@media(prefers-reduced-motion:reduce){.orbit,.pulse,.signal{animation:none}}
+</style>
+</defs>
+<rect x="1" y="1" width="1278" height="438" rx="24" fill="#090e16" stroke="#263441"/>
+<rect x="680" y="20" width="570" height="400" rx="180" fill="url(#ambient)"/>
+<rect x="1" y="1" width="1278" height="438" rx="24" fill="url(#grid)"/>
+<path d="M42 1H1238" stroke="url(#edge)" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<circle cx="58" cy="57" r="4" fill="#66ead3" class="pulse"/>
+<text x="75" y="62" fill="#8a9aaa" font-size="13" letter-spacing="3">ABDULLAH NAVEED / AI ENGINEER</text>
+<text x="54" y="153" fill="#f2f6fa" font-size="57" font-weight="700" letter-spacing="-3">Abdullah Naveed.</text>
+<text x="54" y="226" fill="url(#ink)" font-size="57" font-weight="700" letter-spacing="-3">From models to products.</text>
+<text x="58" y="279" fill="#a2b1c2" font-size="20">From models and pipelines to products you can use.</text>
+<g font-size="12" letter-spacing="1.6" fill="#bad0dc">
+<rect x="56" y="315" width="151" height="34" rx="17" fill="#111f29" stroke="#29404a"/>
+<text x="76" y="337">GENERATIVE AI</text>
+<rect x="218" y="315" width="172" height="34" rx="17" fill="#111f29" stroke="#29404a"/>
+<text x="237" y="337">COMPUTER VISION</text>
+<rect x="401" y="315" width="163" height="34" rx="17" fill="#111f29" stroke="#29404a"/>
+<text x="421" y="337">DEVELOPER TOOLS</text>
+</g>
+<text x="58" y="405" fill="#677c90" font-family="Consolas,monospace" font-size="12" letter-spacing="2">IDEA / EXPERIMENT / BUILD / SHIP</text>
+</g>
+<g fill="none" stroke="#3c6e7c">
+<circle cx="1010" cy="214" r="155" stroke-opacity=".35"/>
+<circle cx="1010" cy="214" r="112" stroke-opacity=".4" stroke-dasharray="2 12"/>
+<path d="M1010 59V369M855 214H1165" stroke-opacity=".2"/>
+<g class="orbit"><ellipse cx="1010" cy="214" rx="149" ry="63" transform="rotate(-35 1010 214)" stroke="#68d8cc" stroke-opacity=".65"/><circle cx="1132" cy="128" r="6" fill="#77f5dc" stroke="#b9fff2"/><circle cx="888" cy="300" r="4" fill="#77f5dc"/></g>
+<g class="orbit reverse"><ellipse cx="1010" cy="214" rx="137" ry="80" transform="rotate(45 1010 214)" stroke="#8692f0" stroke-opacity=".6"/><circle cx="1107" cy="311" r="5" fill="#a7acff"/></g>
+<path d="M895 160L1010 214L1090 120M1010 214L1116 255M1010 214L940 325" class="signal" stroke="#72d9d2" stroke-opacity=".6"/>
+<circle cx="1010" cy="214" r="52" fill="#102c35" stroke="#64e9d2" stroke-opacity=".5"/>
+<circle cx="1010" cy="214" r="39" fill="#153d43" stroke="#7bf7de"/>
+</g>
+<text x="1010" y="225" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="600" fill="#d0fff2">AI</text>
+<text x="1010" y="402" text-anchor="middle" font-family="Consolas,monospace" font-size="11" letter-spacing="3" fill="#688492">ALWAYS EXPERIMENTING</text>
+</svg>
