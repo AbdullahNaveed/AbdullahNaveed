@@ -1,79 +1,77 @@
+<h1 align="center">Abdullah Naveed </h1>
 <p align="center">
-  <img src="./ai-engineer.svg" width="100%" alt="Abdullah Naveed. AI Engineer. From models to products." />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
-  <a href="#selected-builds">Selected builds</a> &nbsp; / &nbsp;
-  <a href="#the-toolkit">The toolkit</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/AbdullahNaveed0007/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/AbdullahNaveed0007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<br />
+<br>
+<br>
 
-I'm **Abdullah, an AI engineer** working across generative AI, computer vision, and developer tools. I build the connections between models, useful workflows, and interfaces people can actually use.
+## 👉 Programming languages
 
-**Current projects:** automated video generation and reusable frontend skills for AI coding agents.
+<p align="center"> 
+  &emsp;
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  &emsp;  
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  &emsp;
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&style=plastic&logo=c%2B%2B&logoColor=white">
+  &emsp;
+     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&style=plastic&logo=c-sharp&logoColor=white">
+  &emsp;
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&style=plastic&logo=dart&logoColor=white">
+</p>
 
-<br />
-
-## Selected builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/AbdullahNaveed/ai-shorts-generator"><img src="./video-pipeline.svg" width="100%" alt="AI Shorts Generator: script, visuals, voice, and video assembly" /></a>
-<h3>AI Shorts Generator</h3>
-<p>Turn a topic into a captioned vertical video. Scripts, generated visuals, narration, captions, and assembly in one pipeline, with a local review dashboard.</p>
-<p><code>Python</code> <code>OpenAI</code> <code>Flux / Wan</code> <code>FFmpeg</code></p>
-<p><a href="https://github.com/AbdullahNaveed/ai-shorts-generator"><b>Explore the pipeline &nearr;</b></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/AbdullahNaveed/frontend-ux-motion-skills"><img src="./motion-skills.svg" width="100%" alt="Frontend UX Motion Skills: animated interface cards and 28 agent skills" /></a>
-<h3>Frontend UX Motion Skills</h3>
-<p>28 reusable skills for coding agents. Frontend development, UI/UX, and animation guidance, each paired with a runnable example.</p>
-<p><code>Agent skills</code> <code>JavaScript</code> <code>CSS</code> <code>SVG</code></p>
-<p><a href="https://github.com/AbdullahNaveed/frontend-ux-motion-skills"><b>Explore the skills &nearr;</b></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><sub>03 / COMPUTER VISION</sub></p>
-<h3>Italian Sign Language Recognition</h3>
-<p>Background augmentation, a custom CNN, ResNet18 experiments, and real-time webcam inference.</p>
-<p><a href="https://github.com/AbdullahNaveed/Enhanced-Real-time-Italian-Sign-Language-Recognition-with-Deep-Learning"><b>Explore the project &nearr;</b></a></p>
-</td>
-<td width="50%" valign="top">
-<p><sub>04 / THE FOUNDATIONS</sub></p>
-<h3>Neural Networks from Scratch</h3>
-<p>A Python implementation exploring the fundamentals beneath deep learning frameworks.</p>
-<p><a href="https://github.com/AbdullahNaveed/Deep-Neural-Networks-From-Scratch-Python"><b>Explore the implementation &nearr;</b></a></p>
-</td>
-</tr>
-</table>
-
-<br />
-
-## A little motion. A lot of craft.
-
-An animated look at the interface patterns in **Frontend UX Motion Skills**.
-
-<a href="https://github.com/AbdullahNaveed/frontend-ux-motion-skills">
-<img src="https://raw.githubusercontent.com/AbdullahNaveed/frontend-ux-motion-skills/main/examples/banner.webp" width="100%" alt="Three animated interface examples from Frontend UX Motion Skills" />
-</a>
-
-<br />
-
-## The toolkit
-
-| | Technologies |
-| :--- | :--- |
-| **Models & vision** | Python / PyTorch / TensorFlow / OpenCV |
-| **Generative workflows** | OpenAI / Flux / Wan / Whisper / FFmpeg |
-| **Interfaces & apps** | JavaScript / HTML / CSS / Flask / Flutter |
-| **Engineering** | Docker / Git / Linux / C++ / C# |
-
-<br />
-
+ ## 👉 Tools & Technologies
+ 
 <p align="center">
-<img src="./footer.svg" width="100%" alt="Good models are a start. Useful products are the goal." />
+  &emsp;
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-02569B?style=plastic&logo=docker&logoColor=white">
+  &emsp;
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCv-100000?style=plastic&logo=opencv&logoColor=white">
+  &emsp;
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FA7343?style=plastic&logo=tensorflow&logoColor=white">
+  &emsp;
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-E95420?style=plastic&logo=pytorch&logoColor=white">
+  &emsp;
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
+  &emsp;
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white">
+  &emsp;
+    <img alt="XCode" src="https://img.shields.io/badge/XCode-02569B?style=plastic&logo=xcode&logoColor=white">
+  &emsp;
+    <img alt="AndroidStudio" src="https://img.shields.io/badge/AndroidStudio-%321.svg?style=plastic&logo=androidstudio&logoColor=white">
+  &emsp;
+    <img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white">
 </p>
+
+ ## 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  &emsp;
+    <img src="https://img.shields.io/badge/macOS-100000?style=plastic&logo=macOS&logoColor=white">
+  &emsp;
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white">
+  &emsp;
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
+</p>
+
+<br/>
+
+
+
+</br></br>
+
+
+
+
+-----
+
+
+Last Edited on: 18th Jan, 2025
+Design Credits: [7oSkaaa](https://github.com/7oSkaaa)
