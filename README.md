@@ -14,17 +14,11 @@
 </td>
 <td width="58%" valign="top">
 <b>Tech stack</b><br /><br />
-<sub><b>AI &amp; vision</b></sub><br />
-<img width="205" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&amp;perline=5" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV" /><br />
-<sub>Transformers &middot; RAG &middot; MCP &middot; YOLO &middot; MLflow</sub><br /><br />
-<sub><b>Games &amp; apps</b></sub><br />
-<img width="205" src="https://skillicons.dev/icons?i=unity,cs,cpp,flutter,swift&amp;perline=5" alt="Unity, C#, C++, Flutter, Swift" /><br /><br />
-<sub><b>Cloud &amp; data</b></sub><br />
-<img width="246" src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,postgres,mongodb&amp;perline=6" alt="Azure, AWS, Docker, Kubernetes, PostgreSQL, MongoDB" /><br /><br />
-<sub><b>Analytics &amp; automation</b></sub><br />
-<img width="17" height="17" src="https://api.iconify.design/simple-icons/snowflake.svg?color=%2329b5e8" alt="" /> <sub>Snowflake</sub> &nbsp;
-<img width="17" height="17" src="https://api.iconify.design/simple-icons/uipath.svg?color=%23fa4616" alt="" /> <sub>UiPath</sub> &nbsp;
-<img width="17" height="17" src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23f2c811" alt="" /> <sub>Power BI</sub>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,unity,cs,cpp,flutter,swift,azure,aws,docker,kubernetes&amp;perline=7" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Unity, C#, C++, Flutter, Swift, Azure, AWS, Docker, Kubernetes" height="75" /><br />
+<img height="35" src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL, MongoDB" /> &nbsp;
+<img width="30" height="30" src="https://api.iconify.design/simple-icons/snowflake.svg?color=%2329b5e8" alt="Snowflake" /> &nbsp;
+<img width="30" height="30" src="https://api.iconify.design/simple-icons/uipath.svg?color=%23fa4616" alt="UiPath" /> &nbsp;
+<img width="30" height="30" src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23f2c811" alt="Power BI" />
 </td>
 </tr>
 <tr>
