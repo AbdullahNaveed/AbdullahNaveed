@@ -1,25 +1,24 @@
-<h1 align="center">Abdullah Naveed</h1>
+# Abdullah Naveed
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=25&amp;duration=1100&amp;pause=3500&amp;color=4388E0&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=48&amp;lines=AI+Engineer" width="460" alt="AI Engineer" />
-</p>
+**AI Engineer** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/AbdullahNaveed0007/)
 
-<p align="center"><a href="https://www.linkedin.com/in/AbdullahNaveed0007/">LinkedIn</a></p>
+<table>
+<tr>
+<td width="46%" valign="top">
+<b>GitHub stats</b><br /><br />
+<img width="430" src="https://github-readme-stats.vercel.app/api?username=AbdullahNaveed&amp;show_icons=true&amp;hide_rank=true&amp;hide_title=true&amp;bg_color=0d1117&amp;text_color=c9d1d9&amp;icon_color=3fb950&amp;hide_border=true" alt="GitHub totals for stars earned, commits, pull requests, issues and repositories contributed to" />
+</td>
+<td width="54%" valign="top">
+<b>Tech stack</b><br /><br />
+<img width="330" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,flask,git,postgres,mongodb,elasticsearch,azure,aws,docker,kubernetes&amp;perline=7" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Flask, Git, PostgreSQL, MongoDB, Elasticsearch, Azure, AWS, Docker, and Kubernetes" />
+</td>
+</tr>
+</table>
 
-## AI engineering
+## Contribution city
 
-I work on language and vision models and the systems around them, from data preparation and fine-tuning to retrieval, APIs, and deployment.
+<img width="100%" src="https://gitcity.natrajx.in/api/svg?u=AbdullahNaveed&amp;theme=matrix" alt="Isometric skyline of my GitHub contributions over the last year" />
 
-- **Models** · LLMs, vision-language models, fine-tuning, computer vision, and OCR
-- **AI systems** · RAG, semantic search, vector databases, and agents that use tools via MCP
-- **ML infrastructure** · Data pipelines, model evaluation, experiment tracking, and cloud deployment
+## Recent activity
 
-## Tools
-
-| | |
-| :--- | :--- |
-| **Modeling** | Python · PyTorch · TensorFlow · scikit-learn · Transformers |
-| **Generative AI** | OpenAI · Gemini · Llama · Pinecone |
-| **Vision** | OpenCV · YOLO · Tesseract |
-| **Data** | SQL · PostgreSQL · Pandas · NumPy · Elasticsearch |
-| **Deployment** | Azure · MLflow · Docker · Kubernetes · Flask |
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahNaveed&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=3fb950&amp;point=aff5b4&amp;area=true&amp;area_color=238636&amp;hide_border=true&amp;custom_title=Last%2031%20days" alt="Animated chart of my daily GitHub contributions over the last 31 days" />
